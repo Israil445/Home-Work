@@ -1,8 +1,8 @@
 # Assignment 0: Markdown   
 ## You have to write markdown  
 ### Some Math Equation   
-First equation: Y =Xβ+ϵy, ∀X     
-Second equation: X=Zγ+ϵx      
+First equation: Y =Xβ+ϵy, ∀X 
+Second equation: X=Zγ+ϵx 
 f1(ω)=σ2 
 2π, ω∈[−π,π]   
 
@@ -16,12 +16,14 @@ f1(ω)=σ2
          -  first sub-sub-item 
        - second sub-item   
 
-![](https://camo.githubusercontent.com/e6947af48fb1f3bb4f8238ee96f307dc6ddc9c9640c373484badd0cd42a3a25d/68747470733a2f2f69636f6e732e69636f6e617263686976652e636f6d2f69636f6e732f69636f6e6b612f6d656f772f3235362f6361742d636167652d69636f6e2e706e67)    
+![](https://camo.githubusercontent.com/e6947af48fb1f3bb4f8238ee96f307dc6ddc9c9640c373484badd0cd42a3a25d/68747470733a2f2f69636f6e732e69636f6e617263686976652e636f6d2f69636f6e732f69636f6e6b612f6d656f772f3235362f6361742d636167652d69636f6e2e706e67)
 
-<p>library(tidyverse) 
+```
+
+library(tidyverse) 
 library(mdsr) 
 SAT_2010 %>% ggplot(aes(write,..density..)) + geom_histogram() + geom_density() + theme_minimal() + labs(title = "SAT Writing Scores")
-</p>  
+```  
 
 # Table with alignment   
 <p>You can align text in the columns to the left, right, or center by adding a colon (:) to the left, right, or on both side of the hyphens within the header row. </p>  
@@ -38,9 +40,8 @@ SAT_2010 %>% ggplot(aes(write,..density..)) + geom_histogram() + geom_density() 
 All code in this repository is copyright 2022 
 [ MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)  All Rights Reserved. 
 Licensed under the MIT License. You may not use this file except in compliance with the License. Use and/or modification of this code outside of 6.S191 must reference:     
-© MIT 6.S191: Introduction to Deep Learning     
-
-http://introtodeeplearning.com  
+> © MIT 6.S191: Introduction to Deep Learning     
+> http://introtodeeplearning.com  
 
 
 
