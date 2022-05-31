@@ -1,8 +1,8 @@
 # Assignment 0: Markdown   
 ## You have to write markdown  
 ### Some Math Equation   
-First equation: Y =Xβ+ϵy, ∀X 
-Second equation: X=Zγ+ϵx 
+First equation: Y =Xβ+ϵy, ∀X     
+Second equation: X=Zγ+ϵx      
 f1(ω)=σ2 
 2π, ω∈[−π,π]   
 
